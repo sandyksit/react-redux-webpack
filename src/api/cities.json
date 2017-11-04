@@ -1,0 +1,33 @@
+{
+	"cities": [{
+		"city": {
+			"code": "PNQ",
+			"name": "Pune"
+		}
+	}, {
+		"city": {
+			"code": "DEL",
+			"name": "Delhi"
+		}
+	}, {
+		"city": {
+			"code": "BOM",
+			"name": "Mumbai"
+		}
+	}, {
+		"city": {
+			"code": "GOI",
+			"name": "Goa"
+		}
+	}, {
+		"city": {
+			"code": "JAI",
+			"name": "Jaipur"
+		}
+	}, {
+		"city": {
+			"code": "MAA",
+			"name": "Chennai"
+		}
+	}]
+}

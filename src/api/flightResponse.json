@@ -1,0 +1,181 @@
+{
+	"flights": [
+	{
+		"flightNo": "AL-201",
+		"origin": "PNQ",
+		"destination": "DEL",
+		"time": {
+			"depart": "08:00AM",
+			"arrive": "10:00AM"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "2300.00",
+		"image":"/src/assets/images/default_img.png",
+		"type": "O"
+	},
+	{
+		"flightNo": "AL-203",
+		"origin": "DEL",
+		"destination": "PNQ",
+		"time": {
+			"depart": "08:00PM",
+			"arrive": "10:00PM"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "2300.00",
+		"image":"/src/assets/images/default_img.png",
+		"type": "R"
+	},
+	{
+		"flightNo": "AL-202",
+		"origin": "PNQ",
+		"destination": "DEL",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "2200.00",
+		"image":"/src/assets/images/default_img.png",
+		"type": "O"
+	},
+	{
+		"flightNo": "AL-203",
+		"origin": "DEL",
+		"destination": "PNQ",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "2200.00",
+		"image":"/src/assets/images/default_img.png",
+		"type": "R"
+	},
+	{
+		"flightNo": "AL-203",
+		"origin": "PNQ",
+		"destination": "DEL",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "2000.00",
+		"image":"/src/assets/images/default_img.png",
+		"type": "O"
+	},
+	{
+		"flightNo": "AL-203",
+		"origin": "DEL",
+		"destination": "PNQ",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "2000.00",
+		"image":"/src/assets/images/default_img.png",
+		"type": "R"
+	},
+	{
+		"flightNo": "AL-203",
+		"origin": "PNQ",
+		"destination": "BOM",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "1500.00",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "BOM",
+		"destination": "PNQ",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "6000.00",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "nan",
+		"destination": "kol",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "5000.00",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "nan",
+		"destination": "kol",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "5300.00",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "nan",
+		"destination": "kol",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "5185.75",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "nan",
+		"destination": "kol",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "4545.00",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "nan",
+		"destination": "kol",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "6545.00",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "nan",
+		"destination": "kol",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01 01:02:03",
+		"amount": "3400.00",
+		"image":"/src/assets/images/default_img.png"
+	}, {
+		"flightNo": "AL-203",
+		"origin": "nan",
+		"destination": "kol",
+		"time": {
+			"depart": "2015-04-01 08:00:00",
+			"arrive": "2015-04-01 10:30:00"
+		},
+		"date": "2015-04-01",
+		"amount": "4300.00",
+		"image":"/src/assets/images/default_img.png"
+	}]
+}

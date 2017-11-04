@@ -1,0 +1,29 @@
+.main-container {
+	.right-section {
+		.list-view__price {
+			font-size: 2rem;
+			font-weight: bold;
+		}
+		.list-view__flight-details > div {
+			padding: 5px 0;
+			font-size: 1rem;
+		}
+		.list-view__flight-image {
+			text-align: center;
+			button {
+				font-size: 10px;
+			}
+			img {
+				width: 160px;
+				height: 140px;
+			}
+		}
+		.list-view__no-records {
+			text-align: center;
+			margin-top: 160px;
+			min-height: 465px;
+			font-size: 2rem;
+			color:red;
+		}
+	}
+}
